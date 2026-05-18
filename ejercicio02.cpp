@@ -14,6 +14,6 @@ int main(){
         cout << "ingrese un numero ";
         cin >> intento;
     }
-    cout <<suma;
+    cout <<suma*2;
 return 0;
 }

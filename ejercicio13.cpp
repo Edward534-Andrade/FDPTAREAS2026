@@ -6,7 +6,7 @@ int main(){
     a=0;
     b=1;
     siguiente=0;
-    cout << "suecion de fibonazi hasta: "<<limite<<endl;
+    cout << "suecion de fibonacci hasta: "<<limite<<endl;
     cout<<a<<endl;
     while (b<=30)
     {
